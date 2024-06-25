@@ -1,4 +1,4 @@
-Project Name - Bike rental system   :
+Project Name - Bike rental system   
 
 
 
